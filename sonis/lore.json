@@ -1,0 +1,15 @@
+[ 
+{"url":"libros/MICROSONIDO_LIBRO_SAMPLE_1.wav","type":"audio","bank":"libros","n":0},
+{"url":"libros/MICROSONIDO_LIBRO_SAMPLE_2.wav","type":"audio","bank":"libros","n":1},
+{"url":"libros/MICROSONIDO_LIBRO_SAMPLE_3.wav","type":"audio","bank":"libros","n":2},
+{"url":"planta/PAISAJE_LLAVES_SAMPLE.wav","type":"audio","bank":"planta","n":0},
+{"url":"planta/PAISAJE_PERRO_OLFATEANDO_SAMPLE.wav","type":"audio","bank":"planta","n":1},
+{"url":"planta/PAISAJE_PUERTA_CERRANDOSE_SAMPLE.wav","type":"audio","bank":"planta","n":2},
+{"url":"planta/PAISAJE_VENTEEE_SAMPLE.wav","type":"audio","bank":"planta","n":3},
+{"url":"planta/PAISAJE_VOCES_Y_PAJAROS_SAMPLE.wav","type":"audio","bank":"planta","n":4},
+{"url":"planta/PAISAJE_YULI_SAMPLE.wav","type":"audio","bank":"planta","n":5},
+{"url":"planta/PAISAJE_PAL_VIERNES_LLAVES_SAMPLE.wav","type":"audio","bank":"planta","n":6},
+{"url":"teclas/ALTURA_TECLADO_SAMPLE_1.wav","type":"audio","bank":"teclas","n":0},
+{"url":"teclas/ALTURA_TECLADO_SAMPLE_2.wav","type":"audio","bank":"teclas","n":1},
+{"url":"teclas/ALTURA_TECLADO_SAMPLE_3.wav","type":"audio","bank":"teclas","n":2}
+]
